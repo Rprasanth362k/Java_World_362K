@@ -30,7 +30,7 @@ public static int minFunction(int n1, int n2)
 	
 	public static void main(String[] args) {
 		
-   add(5,3);// call method 
+   add(5,3);// callmethod 
    add(10,2); // reuse method 
    minFunction(1,2);
 	}
