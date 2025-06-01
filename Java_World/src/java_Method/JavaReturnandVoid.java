@@ -20,7 +20,7 @@ static void samInfo(int i, int j) {
 	
 		
 	}
-// differen  paremeter if you have ?  how to return 
+// differen  paremeter if you have ,  how to return  ?
 static char[] samInfo(int i, int j, double d) {
 	System.out.println("differen  paremeter if you have ?  how to return ");
 	String data = "Age:" +i+", weight"+j+", Height:"+d;
@@ -34,5 +34,6 @@ static int myAccountBalance(int AccountBalnce ) {
 	int Balance =myPurse+AccountBalnce;
 		return Balance;
 	}
+
 
 }
