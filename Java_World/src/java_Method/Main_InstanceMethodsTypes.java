@@ -6,8 +6,8 @@ public class Main_InstanceMethodsTypes {
 		
 		Person_InstanceMethodsTypes   obj1 = new Person_InstanceMethodsTypes();
 		
-		 obj1.setBalance(50);
-		 System.out.println("Your Balace: "+obj1.getBalance());
+		 obj1.setBalance(600);
+		 System.out.println("Your Balance: "+obj1.getBalance());
 		 System.out.println("Be confident"); 
 
 	}
