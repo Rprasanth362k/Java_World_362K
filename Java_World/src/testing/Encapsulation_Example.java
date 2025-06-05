@@ -13,6 +13,7 @@ public class Encapsulation_Example extends Encapsulation {
 	{
 		super.infoDisplay();
 		System.out.println("Roll No: "+rollNo);
+	final int val =10;
 	}
 	public static void main(String[] args) {
 		
@@ -24,6 +25,8 @@ public class Encapsulation_Example extends Encapsulation {
 		student1.setName("zimzng");
 		student1.setAge(28);
 		student1.infoDisplay();
+		
+		
 
 
 		
