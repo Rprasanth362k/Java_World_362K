@@ -15,7 +15,7 @@ String name = "Likera";
 	public void infoDisplay()
 	{
 		
-		System.err.println("My name is "+name);
+		System.err.println("My name is "+name+" .I am king of the jungle");
 			
 	}
 	

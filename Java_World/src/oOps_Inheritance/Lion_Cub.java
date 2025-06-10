@@ -1,12 +1,14 @@
 package oOps_Inheritance;
 
 public class Lion_Cub extends Lion  {
+	String cubName;
 	
 	@Override
 	public void infoDisplay()
 	{
 		super.infoDisplay();
-		System.err.println("My fathe name is "+name);
+		cubName="simba";
+		System.err.println(cubName+" : My fathe name is "+name);
 			
 	}
 	
