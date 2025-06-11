@@ -5,9 +5,11 @@ public class Dog extends  Animal {
 	
 	void sound()
 	{
+		super.sound();
 		System.out.println("Dog barks");
 	}
 	void guard()
+	
 	{
 		System.out.println("Dog gurads the house");
 	}

@@ -14,7 +14,7 @@ public class Peacock extends Bird implements Vegetarian  {
 		System.out.println(o instanceof Peacock);
 
 		
-		
+		// create object peacock  and using  reference to superclass and interface
 		
 	}
 
