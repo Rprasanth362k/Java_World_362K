@@ -18,7 +18,7 @@ public static void swapValueinFunction(int a, int b) {
 	int c =a;  // a(30) value moved to c (),now a (empty) is  empty
 	a= b;  // b(45) value moved  a, because a is empty, now a is 45
 	b=c;  // c(30)  value   moved  to b(empty) , now b is 30
-	System.out.println("After swapping(Inside), a = "+a + ", b = "+b);
+	System.out.println("After Swapping(Inside), a = "+a + ", b = "+b);
 
 
 	
