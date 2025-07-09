@@ -1,0 +1,14 @@
+/normal interface extends  another normal interface
+/*normal interface = more abstract method allowed , not allowed completed(concreate method) method
+ *  ParentInterface=1 abstract + ChildInterface=2 = ImplementedClass 3 =abstract method.
+
+Functional Interface:-
+
+ *  ParentFunctionalinteface have => abstract method then ,ChildFunctionalInterface = no more abstract method,if abstract method in ChildFunctionalInterface error
+
+Why error means Functional interface allowed only 1 abstract method and by java functional interface used with lamda expression ,lamda expression handle only one abstract method and other more reason. 
+ *  
+
+//if parent  FunctionalInterfaceParent  ,child is normal interface that time child have more abstract method.
+
+//if parent is normal interface, child is Functionalinterface no more abstract method
